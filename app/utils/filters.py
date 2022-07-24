@@ -12,3 +12,5 @@ def format_plural(amount, word):
 
 
     
+print(format_url('http://google.com/test/'))
+print(format_url('https://www.google.com?q=test'))
